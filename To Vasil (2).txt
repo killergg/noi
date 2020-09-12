@@ -1,8 +1,1 @@
-@echo off
-color 02
-:x
-start
-chcp 65001
-msg * Тобі хана
-goto x
-jkyu
+i am ok
