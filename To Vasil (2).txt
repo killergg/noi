@@ -5,3 +5,4 @@ start
 chcp 65001
 msg * Тобі хана
 goto x
+jkyu
